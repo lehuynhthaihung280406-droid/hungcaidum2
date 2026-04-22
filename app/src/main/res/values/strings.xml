@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">HITCApp</string>
+    
+    <!-- Màn hình Đăng nhập/Đăng ký -->
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="no_account">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="has_account">Đã có tài khoản? Đăng nhập</string>
+
+    <!-- Màn hình chính & Sản phẩm -->
+    <string name="add_to_cart">Thêm vào giỏ</string>
+    <string name="product_list">Danh sách sản phẩm</string>
+    <string name="discover_products">Khám phá sản phẩm</string>
+    <string name="search_hint">Tìm kiếm giày đá banh...</string>
+    
+    <!-- Chi tiết sản phẩm -->
+    <string name="product_detail">Chi tiết sản phẩm</string>
+    <string name="description_label">Mô tả:</string>
+    <string name="product_description">Giày bóng đá chính hãng, thiết kế hỗ trợ tăng tốc và kiểm soát bóng tối ưu. Chất liệu bền bỉ, ôm chân, phù hợp cho sân cỏ nhân tạo và sân cỏ tự nhiên.</string>
+    <string name="buy_now">Mua ngay</string>
+
+    <!-- Thanh toán -->
+    <string name="checkout">Thanh toán</string>
+    <string name="delivery_address_hint">Địa chỉ giao hàng</string>
+    <string name="phone_number_hint">Số điện thoại</string>
+    <string name="payment_method">Phương thức thanh toán</string>
+    <string name="cod">Thanh toán khi nhận hàng (COD)</string>
+    <string name="online_payment">Chuyển khoản / Thẻ tín dụng</string>
+    <string name="confirm_payment">Xác nhận thanh toán</string>
+    <string name="order_success">Đặt hàng thành công!</string>
+
+    <!-- Giỏ hàng -->
+    <string name="cart_title">Giỏ hàng của bạn</string>
+    <string name="empty_cart">Giỏ hàng trống</string>
+    <string name="total_amount">Tổng cộng:</string>
+
+    <!-- Dữ liệu sản phẩm (Giày đá banh) -->
+    <string name="product_1_name">Nike Mercurial Vapor 15</string>
+    <string name="product_1_price">2.500.000 VNĐ</string>
+    <string name="product_2_name">Adidas Predator Accuracy</string>
+    <string name="product_2_price">3.200.000 VNĐ</string>
+    <string name="product_3_name">Puma Future Ultimate</string>
+    <string name="product_3_price">2.800.000 VNĐ</string>
+    <string name="product_4_name">Mizuno Morelia Neo III</string>
+    <string name="product_4_price">4.500.000 VNĐ</string>
+    <string name="product_5_name">Nike Phantom GX</string>
+    <string name="product_5_price">3.000.000 VNĐ</string>
+    <string name="product_6_name">Adidas X Crazyfast</string>
+    <string name="product_6_price">2.700.000 VNĐ</string>
+</resources>
